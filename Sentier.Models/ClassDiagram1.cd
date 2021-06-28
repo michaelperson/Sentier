@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Sentier.Models.Concretes.Coordinates">
+    <Position X="6.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Concretes\Coordinates.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sentier.Models.Concretes.Insecte">
+    <Position X="8.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAigAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Concretes\Insecte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sentier.Models.Concretes.Plante">
+    <Position X="5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAABAQAABAAgAACEAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Concretes\Plante.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Sentier.Models.Concretes.PlanteBasique">
+    <Position X="6.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Concretes\PlanteBasique.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sentier.Models.Concretes.PlanteInitie">
+    <Position X="3.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAgAAACAAIAAAAAASAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Concretes\PlanteInitie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sentier.Models.Concretes.PlanteBota">
+    <Position X="5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAEAEAgAAACAAIAAAAAASAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Concretes\PlanteBota.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Sentier.Models.Interfaces.IAnglais">
+    <Position X="10.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IAnglais.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Sentier.Models.Interfaces.IFrancais">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IFrancais.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Sentier.Models.Interfaces.ILocalisable">
+    <Position X="8.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ILocalisable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Sentier.Models.Interfaces.INeerlandais">
+    <Position X="10.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\INeerlandais.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Sentier.Models.Enumerations.ESaisons">
+    <Position X="8.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAABAAgAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enumerations\ESaisons.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Sentier.Models.Enumerations.EStatus">
+    <Position X="10.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAIAAAAAAAAAAAAAAAAgAAAAAACAAAAA=</HashCode>
+      <FileName>Enumerations\EStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Sentier.Models.Enumerations.Evertu">
+    <Position X="6.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Enumerations\Evertu.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
